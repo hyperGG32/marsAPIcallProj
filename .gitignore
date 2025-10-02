@@ -1,3 +1,12 @@
 # created by virtualenv automatically
 *
+.pyc
+__pycache__/
 .env
+.venv
+venv/
+.log
+.cfg
+.idea/
+.DS_Store
+Thumbs.db
